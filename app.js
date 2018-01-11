@@ -93,7 +93,6 @@ mongoose.connect('mongodb://localhost:27018/blog', function (err) {
     }
 });
 
-
 /*
 用户发送http请求 ->url ->解析路由  ->找到匹配的规则 -> 执行指定的绑定函数，返回对用内容至用户
 
