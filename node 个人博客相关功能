@@ -1,4 +1,5 @@
 # node
+开发环境：window node mongoose 
 内容包括:
   静态文件托管
   用户注册 登录
